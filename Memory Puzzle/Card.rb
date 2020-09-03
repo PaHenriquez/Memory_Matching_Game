@@ -16,8 +16,6 @@ class Card
         @face_value
     end
 
-    # possibility of to_string function?
-
     def ==(other_card)
         return true if self.face_value == other_card.face_value
          self.hide
