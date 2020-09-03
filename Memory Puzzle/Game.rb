@@ -7,7 +7,6 @@ class Game
 
     def initialize
         @board = Board.new
-        #can be changed for different size
         @previous_guess = nil
     end
 
