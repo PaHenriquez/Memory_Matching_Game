@@ -1,7 +1,7 @@
 ### **Memory Puzzle Game**
 
 Console game played on the command line where the player guess to find matching pairs. 
-Player wins where all the pairs have be found.
+Player wins when all the pairs have be found.
 
 ### **Preview**
 
